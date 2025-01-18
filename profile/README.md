@@ -1,6 +1,6 @@
 <p align="center">
-<img height="150" src="https://github.com/RuggiesPizza/RuggieTokens/blob/main/images/newRuggieLogo.png">
-<img src="https://github.com/RuggiesPizza/RuggieTokens/blob/main/images/ruggEtext.png" width="750">
+<img height="120" src="https://github.com/RuggiesPizza/RuggieTokens/blob/main/images/newRuggieLogo.png">
+<img src="https://github.com/RuggiesPizza/RuggieTokens/blob/main/images/ruggEtext.png" width="600">
 </p>
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ruggiespizza)
